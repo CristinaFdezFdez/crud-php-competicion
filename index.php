@@ -11,7 +11,7 @@
 
 <body>
     <?php
-    $conexion = mysqli_connect("db", "root", "test", "competicion");
+    $conexion = mysqli_connect( "xxxxxxx", "xxxxxxx");
 
     if (!isset($_POST["accion"])) {
         $_POST["accion"] = "";
