@@ -29,7 +29,7 @@
         <div class="card">
             <h1 class="text-center">Motos Turing - Modifica cliente</h1>
             <form action="index.php" method="post">
-                    <input type="hidden" name="accion" value="modificar">
+                    <input type="hidden" name="accion" value="modificar_equipo">
                     <input type="hidden" name="CodEquipo" value="<?= $CodEquipo ?>">
                     <input type="hidden" name="CodEquipoAntiguo" value="<?= $CodEquipo ?>">
                     <div class="mb-3 aire">
