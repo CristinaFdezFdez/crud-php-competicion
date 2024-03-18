@@ -21,4 +21,4 @@ Este proyecto utiliza Bootstrap para el diseño y los estilos, lo que proporcion
 
 ## Capturas
 
-![CRUD](img/Captura.png)
+![Captura](https://github.com/CristinaFdezFdez/crud-php-competicion/assets/155740893/d0bfec59-0ade-4d7e-814c-2705c1376dfc)
