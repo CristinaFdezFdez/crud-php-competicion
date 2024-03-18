@@ -10,7 +10,7 @@ Página principal que muestra la lista de equipos y motos, y permite realizar op
 Archivo de estilo CSS de Bootstrap para el diseño y la apariencia.
 ### icons/font/bootstrap-icons.min.css: 
 Archivo de iconos Bootstrap para los botones.
-###js/bootstrap.bundle.min.js: 
+### js/bootstrap.bundle.min.js: 
 Archivo JavaScript de Bootstrap para la funcionalidad interactiva.
 
 ## Notas
