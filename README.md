@@ -5,11 +5,10 @@ Este proyecto consiste en una aplicación web para gestionar información sobre 
 ## Contenidos
 
 1. [Estructura del Proyecto](#estructura-del-proyecto)
-2. [Notas](#notas)
-3. [Capturas del Resultado](#capturas)
-4. [Enlace a la Web](#enlace-a-la-web)
-5. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-6. [Créditos](#créditos)
+2. [Capturas del Resultado](#capturas)
+3. [Enlace a la Web](#enlace-a-la-web)
+4. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+5. [Créditos](#créditos)
 
 ## Estructura del Proyecto
 
